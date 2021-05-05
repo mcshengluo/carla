@@ -4,7 +4,7 @@
 // This work is licensed under the terms of the MIT license.
 // For a copy, see <https://opensource.org/licenses/MIT>.
 
-#include "Exception.h"
+#include "carla/Exception.h"
 
 // =============================================================================
 // -- Define boost::throw_exception --------------------------------------------
